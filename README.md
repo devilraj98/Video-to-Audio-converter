@@ -156,8 +156,8 @@ kubectl get svc frontend
 ## 📖 Documentation
 
 - **[DEPLOYMENT-GUIDE.md](DEPLOYMENT-GUIDE.md)** - Complete deployment instructions
+- **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** - Common issues and solutions
 - **[jenkins/JENKINS-SETUP.md](jenkins/JENKINS-SETUP.md)** - CI/CD pipeline setup
-- **[terraform/README.md](terraform/README.md)** - Infrastructure details
 
 ## 🔧 Configuration
 
